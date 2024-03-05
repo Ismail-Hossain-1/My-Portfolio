@@ -1,8 +1,10 @@
 ﻿# My-Portfolio
- <hr>
+ </hr>
+
+ 
 # Google Sheet link to html form with js:
  
- 
+ ```
 
 let form = document.querySelector('#form');
 
@@ -23,9 +25,8 @@ form.addEventListener('submit', (e)=>{
 ```
 
 # chatbot integration with html:
-```
 
-    
+``` 
     import { GoogleGenerativeAI } from "@google/generative-ai";
     
     const API_KEY = "<your api key>"; // your api key:- paste your api key
