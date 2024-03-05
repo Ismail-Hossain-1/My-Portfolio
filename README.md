@@ -1,7 +1,7 @@
 ﻿# My-Portfolio
  <hr>
- # Google Sheet link to html form with js:
- ```
+# Google Sheet link to html form with js:
+ 
  
 
 let form = document.querySelector('#form');
@@ -22,7 +22,7 @@ form.addEventListener('submit', (e)=>{
 })
 ```
 
-#chatbot integration with html:
+# chatbot integration with html:
 ```
 
     
@@ -79,5 +79,5 @@ form.addEventListener('submit', (e)=>{
     }
     
     run();
-    
-    ```
+   
+```
